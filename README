@@ -1,0 +1,8 @@
+Multi-layer perceptron on Iris data set (MLP) 
+
+
+The Iris flower data set or Fisher's Iris data set is a multivariate data set introduced by the British statistician and biologist Ronald Fisher. The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). Four features were measured from each sample: the length and the width of the sepals and petals, in centimetres. 
+
+In this project I Implemented backpropagation algorithm for training a MLP with one hidden layer
+for classification on Iris data set. Four features are inputs and three classes are outputs.
+The number of misclassifications for each iteration over the data set is also plotted.
